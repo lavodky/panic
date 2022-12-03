@@ -34,10 +34,10 @@ navigation_links:
     url: /
 
   - title: Sobre
-    url: /sobre
+    url: /about
 
   - title: Procurar
-    url: /procurar
+    url: /search
 
 # Footer icons
 footer_links:
