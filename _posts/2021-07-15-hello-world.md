@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Vamos explodir a VilaC
 categories: [content, demo]
 ---
 
