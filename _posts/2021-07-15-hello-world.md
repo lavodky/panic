@@ -6,7 +6,7 @@ categories: [content, demo]
 
 teste de controle via terminal  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+nao entendi pq nao quer atualizar 
 
 ## Some great heading (h2)
 
