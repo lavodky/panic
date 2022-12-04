@@ -3,10 +3,10 @@
 #
 
 # Site locale
-lang: "en"
+lang: "pt"
 
 # Name of your site (displayed in the header)
-title: VilaC ON Panic
+title: FOZ ON PANIC
 
 # Short bio or description (displayed in the header)
 description: VilaC eh  um lugar mto chato
@@ -49,14 +49,26 @@ footer_links:
     url: https://twitter.com/jekyllrb
     icon: fa fa-twitter-square
 
-  - title: GitHub
-    url: https://github.com/forever-jekyll
-    icon: fa fa-github-square
+  #- title: GitHub
+   # urlhttps://github.com/forever-jekyll
+   # icon: fa fa-github-square
+
+  - title: YouTube
+    url: https://www.youtube.com/channel/UCjktLamTjfHfDBZ758jwvug
+    icon: fa fa-youtube-square
+
+  - title: Instagram
+    url: https://www.instagram.com/_zkowsky/
+    icon: fa fa-instagram
+    
+  #- title: Telegram
+  #  urlhttps://www.instagram.com/_zkowsky/
+  #icon: fa fa-telegram
 
 
 
 # Enter your copyright text if you wish to override the default one.
-#copyright: "This site is made with <3 by *me, myself, and I*."
+copyright: "fodase."
 
 # Time zone
 timezone: null

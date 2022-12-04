@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+> A vida *nao* examinada nao vale <i>a pena</i> ser vivida <em>-Socrates</em>.
