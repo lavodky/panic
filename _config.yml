@@ -41,9 +41,9 @@ navigation_links:
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
+ # - title: Feed
+  #  url: feed.xml
+  #  icon: fa fa-rss-square
 
   - title: Twitter
     url: https://twitter.com/jekyllrb
@@ -52,6 +52,11 @@ footer_links:
   - title: GitHub
     url: https://github.com/forever-jekyll
     icon: fa fa-github-square
+
+    - title: Instagram
+    url: https://www.instagram.com/_zkowsky/
+    icon: fa fa-instagram-square
+
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
