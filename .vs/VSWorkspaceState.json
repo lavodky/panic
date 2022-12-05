@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\_posts"
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts",
+    "\\_sass",
+    "\\_site",
+    "\\_site\\archive",
+    "\\_site\\assets",
+    "\\_site\\assets\\image"
   ],
-  "SelectedNode": "\\_posts\\2021-07-15-hello-world.md",
+  "SelectedNode": "\\_site\\archive\\index.html",
   "PreviewInSolutionExplorer": false
 }

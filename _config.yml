@@ -1,18 +1,20 @@
-#
+﻿#
 # This file contains configuration flags to customize your site
 #
+encoding: UTF-8
 
 # Site locale
-lang: "pt"
+lang: "pt-br"
+
 
 # Name of your site (displayed in the header)
 title: FOZ ON PANIC
 
 # Short bio or description (displayed in the header)
-description: VilaC eh  um lugar mto chato
+description: VilaC é um lugar muito chato
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/avatar.png
+avatar: /assets/image/avatar.gif
 
 #
 # Flags below are optional
@@ -34,10 +36,13 @@ navigation_links:
     url: /
 
   - title: Sobre
-    url: /about
+    url: /sobre
 
   - title: Procurar
     url: /search
+
+
+
 
 # Footer icons
 footer_links:
@@ -111,6 +116,7 @@ plugins:
   - jemoji
   - webrick
   - jekyll-github-metadata
+
 
 # Exclude these files from your production _site
 exclude:
