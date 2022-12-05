@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\_includes",
-    "\\_layouts",
     "\\_posts",
-    "\\_sass",
     "\\_site",
-    "\\_site\\archive",
-    "\\_site\\assets",
-    "\\_site\\assets\\image"
+    "\\_site\\explodir",
+    "\\_site\\explodir\\vilac",
+    "\\_site\\explodir\\vilac\\2022",
+    "\\_site\\explodir\\vilac\\2022\\04",
+    "\\_site\\explodir\\vilac\\2022\\04\\12",
+    "\\_site\\explodir\\vilac\\2022\\04\\12\\vilac"
   ],
-  "SelectedNode": "\\_site\\archive\\index.html",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
