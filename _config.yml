@@ -42,6 +42,9 @@ navigation_links:
   - title: Procurar
     url: /search
 
+  - title: Form
+    url: /form
+
 # Footer icons
 footer_links:
  # - title: Feed
