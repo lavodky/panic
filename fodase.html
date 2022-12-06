@@ -1,0 +1,36 @@
+---
+layout: page
+permalink: /contato
+---
+
+<form name="contact" method="POST" data-netlify="true">
+    <p>
+        <label>Seu nome: <input type="text" name="name" /></label>
+    </p>
+    <p>
+        <label>Email: <input type="email" name="email" /></label>
+    </p>
+    <p>
+        <label>
+            Interesse: <select name="role[]" multiple>
+                <option value="leader">Quero entrar</option>
+                <option value="follower">Não quero entrar</option>
+            </select>
+        </label>
+    </p>
+    <p>
+        <label>Mensagem: <textarea name="message"></textarea></label>
+    </p>
+    <p>
+        <button type="submit">Enviar</button>
+    </p>
+</form>
+
+
+<style>
+
+    button, input, select, textarea {
+        background-color: #ddddddc7;
+        border-style: none;
+    }
+</style>

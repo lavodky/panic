@@ -1,16 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\_posts",
-    "\\_site",
-    "\\_site\\explodir",
-    "\\_site\\explodir\\vilac",
-    "\\_site\\explodir\\vilac\\2022",
-    "\\_site\\explodir\\vilac\\2022\\04",
-    "\\_site\\explodir\\vilac\\2022\\04\\12",
-    "\\_site\\explodir\\vilac\\2022\\04\\12\\vilac"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2022-04-12-vilac.md",
   "PreviewInSolutionExplorer": false
 }
