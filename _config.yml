@@ -5,7 +5,8 @@ encoding: UTF-8
 
 # Site locale
 lang: "pt-br"
-
+# Google Analytics
+google_analytics: G-05GCRWLK2E
 
 # Name of your site (displayed in the header)
 title: FOZ ON PANIC
