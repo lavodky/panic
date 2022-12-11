@@ -1,6 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="https://forever-jekyll.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://forever-jekyll.github.io/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2022-12-10T22:48:50-03:00</updated><id>https://forever-jekyll.github.io/feed.xml</id><title type="html">FOZ ON PANIC</title><subtitle>networking?</subtitle><entry><title type="html">Idiotas vão te matar</title><link href="https://forever-jekyll.github.io/vilac" rel="alternate" type="text/html" title="Idiotas vão te matar" /><published>2022-12-10T00:00:00-03:00</published><updated>2022-12-10T00:00:00-03:00</updated><id>https://forever-jekyll.github.io/vilac</id><content type="html" xml:base="https://forever-jekyll.github.io/vilac"><![CDATA[<meta charset="utf-8" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br"><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-br" /><updated>2022-12-10T23:14:10-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FOZ ON PANIC</title><subtitle>networking?</subtitle><entry><title type="html">Idiotas vão te matar</title><link href="http://localhost:4000/vilac" rel="alternate" type="text/html" title="Idiotas vão te matar" /><published>2022-12-10T00:00:00-03:00</published><updated>2022-12-10T00:00:00-03:00</updated><id>http://localhost:4000/vilac</id><content type="html" xml:base="http://localhost:4000/vilac"><![CDATA[<meta charset="utf-8" />
 
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+<!-- Hotjar Tracking Code for https://www.fozonpanic.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3283671,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 
 <hr />
 
