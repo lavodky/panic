@@ -6,7 +6,7 @@ encoding: UTF-8
 # Site locale
 lang: "pt-br"
 # Google Analytics
-google_analytics: {{ site.google_analytics }}
+
 
 # Name of your site (displayed in the header)
 title: FOZ ON PANIC
