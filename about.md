@@ -2,7 +2,7 @@
 layout: page
 permalink: /about
 ---
-<!-- Hotjar Tracking Code for https://www.fozonpanic.com/ -->
+
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
